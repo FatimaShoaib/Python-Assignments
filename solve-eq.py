@@ -1,0 +1,6 @@
+#14.	Write a Python program to solve (x + y) * (x + y)
+print("Enter two values 'x' and 'y'")
+x = float(input('x = '))
+y = float(input('y = '))
+ans = (x + y) * (x + y)
+print('Ans = ', ans)
